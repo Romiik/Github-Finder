@@ -5,7 +5,7 @@ const About = () => {
     <Fragment>
       <h1>About this app</h1>
       <p>App to search Github</p>
-      <p> Shut up ! </p>
+      <p> Now fo ! </p>
     </Fragment>
   );
 };
